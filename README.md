@@ -1,2 +1,2 @@
 # Calculator
-this learning project for js
+this is learning project for js
